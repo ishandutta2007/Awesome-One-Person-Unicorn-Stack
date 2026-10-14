@@ -1,6 +1,6 @@
 # Awesome-One-Person-Unicorn-Stack
 
-# Top One-Person Unicorn Stack Ecosystem
+## Top One-Person Unicorn Stack Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Solo Founder Infrastructure, AI-Assisted Shipping & Zero-Headcount Operations*  
