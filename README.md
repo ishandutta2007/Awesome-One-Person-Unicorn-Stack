@@ -167,7 +167,7 @@ We actively welcome contributions from fellow solo founders, indie hackers, and 
    - Include official website or GitHub repository link.
    - Mention whether it is SaaS or Open-Source.
    - For SaaS: Include verifiable starting pricing, exact free tier limits, and valuation/scale.
-   - For Open-Source: Add the social star count badge linked to `/stargazers`.
+   - For Open-Source: Add the social Stars_Count badge linked to `/stargazers`.
 4. 🚀 **Submit a Pull Request** with a concise description of why it empowers solo founders.
 
 ---
